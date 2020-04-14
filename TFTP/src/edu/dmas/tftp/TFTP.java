@@ -1,4 +1,4 @@
-package edu.as.tftp;
+package edu.dmas.tftp;
 
 public class TFTP {
 
