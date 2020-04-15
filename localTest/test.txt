@@ -1,4 +1,0 @@
-This is a test.
-A Raspberry Pi is hosting this TFTP Server.
-
-It is intended for testing a TFTP client
